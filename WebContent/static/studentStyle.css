@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+html,body{
+background-image: url('static/images/background.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
